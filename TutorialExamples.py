@@ -97,4 +97,4 @@ async def change_status():
 
 
 
-client.run('Nzk5MDA4MDcwOTYwNDE0NzYx.X_9UQA.15bN7zV9Wt2YHT_eNiEsyniHIoA')
+client.run('Add your discord bot token here.')
